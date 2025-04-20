@@ -1,13 +1,14 @@
-<p align="center">
-  <img src="小圆.gif" alt="banner" width="20%" />
-</p>
 
 <h1 align="center">Hello, I'm Zirui Huang</h1>
 
 <p align="center">
   🎓 CS (Game Development) Master @ USC <br>
   🕹️ Aspiring Game Developer & Tech Artist <br>
-  ✏️ Sketch enthusiast · 🎸 Guitar player · 🕺 Breakdancer <br>
+  ✏️ Sketch enthusiast · 🎸 Guitar player · 🕺 Breakdancer
+</p>
+
+<p align="center">
+  <img src="小圆.gif" alt="banner" width="230px" />
 </p>
 
 <!-- Tech badges -->
@@ -20,15 +21,18 @@
   <img src="https://img.shields.io/badge/OpenGL-5586A4?style=flat&logo=opengl&logoColor=white" />
 </p>
 
-<!-- Git Stats -->
+<!-- Most used languages -->
+<!-- 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=angel4576&show_icons=true&theme=tokyonight&hide_rank=true&count_private=true" />
+  
+    <img src="https://github-readme-stats.vercel.app/api?username=angel4576&hide=issues&hide_rank=true&theme=dark&show_icons=true" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angel4576&layout=compact&theme=swift" />
 </p>
+-->
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angel4576&layout=compact&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ziruihuang&color=blue&style=flat-square" alt="Profile views" />
-</p>
+<!--
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=ziruihuang&color=blue&style=flat-square" alt="Profile views" />
+  </p>
+-->
